@@ -1,0 +1,38 @@
+.section1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    background: var(--gradient-cream);
+}
+
+.section1-left {
+    padding-top: 88px;
+    padding-left: 120px;
+    width: 684px;
+    height: 144px;
+}
+
+.section1-left-heading {
+  font-family: var(--font-family-big);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.section1-left-text {
+  font-family: var(--font-family-small);
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
+}
+
+.section1-right {
+  display: flex;
+  padding-right: 120px;
+}
+
+.section1-right img {
+  width: 200px;
+  height: 200px;
+  padding: 36px 0;
+}

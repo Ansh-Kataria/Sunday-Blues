@@ -1,8 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Mono+One&family=Urbanist:wght@500&display=swap");
 
 :root {
+
+  --gradient-cream: linear-gradient(0deg, #A6876D -231.98%, rgba(166, 135, 109, 0) 100%);
+  --gradient-yellow: linear-gradient(180deg, #CC9225 0.04%, rgba(204, 146, 37, 0) 100%);
+  --gradient-black: linear-gradient(270deg, #262220 58.44%, rgba(38, 34, 32, 0) 76.45%);
+
   --font-family-big: "Rubik Mono One", sans-serif;
   --font-family-small: "Urbanist", sans-serif;
+  
   --color-bg: #fbf7f2;
   --color-charcoal: #1d1b16;
   --color-blue: #00a5c0;

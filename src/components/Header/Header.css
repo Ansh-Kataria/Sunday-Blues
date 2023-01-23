@@ -11,7 +11,7 @@
 
 .header-left {
   display: flex;
-  padding-left: 48px;
+  padding-left: 120px;
   padding-top: 16px;
   padding-bottom: 16px;
 }
@@ -26,10 +26,11 @@
   padding-top: 28px;
   padding-bottom: 28px;
   color: var(--color-cream);
+  padding-right: 80px;
 }
 
 .header-right-text {
-  padding-right: 80px;
+  
 }
 
 @media screen and (max-width:500px) {
