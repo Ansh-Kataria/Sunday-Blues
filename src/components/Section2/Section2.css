@@ -1,0 +1,11 @@
+.section2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  background: var(--color-brown);
+}
+
+.section2-left img{
+    width: 200px;
+    height: 200px;
+}
