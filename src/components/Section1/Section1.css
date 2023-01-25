@@ -8,9 +8,7 @@
 .section1-left {
   display: flex;
   flex-direction: column;
-  padding-top: 88px;
-  padding-left: 120px;
-  padding-right: 16px;
+  padding:88px;
 }
 
 .section1-left-heading {

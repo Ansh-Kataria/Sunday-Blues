@@ -5,7 +5,32 @@
   background: var(--color-brown);
 }
 
-.section2-left img{
-    width: 200px;
-    height: 200px;
+.section2-left {
+  padding: 24px 24px;
+}
+
+.section2-left img {
+  width: 300px;
+  height: 300px;
+}
+
+.section2-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 88px;
+}
+
+.section2-right-heading {
+  font-family: var(--font-family-big);
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.section2-right-text {
+  font-family: var(--font-family-small);
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 32px;
 }
