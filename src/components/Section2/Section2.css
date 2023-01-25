@@ -19,6 +19,7 @@
   flex-direction: column;
   align-items: flex-start;
   padding: 88px;
+  color: var(--color-cream);
 }
 
 .section2-right-heading {
