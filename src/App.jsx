@@ -1,4 +1,4 @@
-import { Header, Section1, Section2, Section3, Section4 } from "./components";
+import { Header, Section1, Section2, Section3, Section4, Section5 } from "./components";
 
 import "./App.css";
 const App = () => (
@@ -8,6 +8,7 @@ const App = () => (
     <Section2 />
     <Section3 />
     <Section4 />
+    <Section5 />
   </div>
 );
 

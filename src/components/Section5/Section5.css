@@ -1,0 +1,23 @@
+.section5 {
+  background: var(--gradient-yellow);
+  /* transform: rotate(-180deg); */
+}
+
+.section5-first {
+  padding: 24px 24px;
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-evenly; */
+  align-items: flex-start;
+  /* transform: rotate(-180deg); */
+  gap: 48px;
+}
+
+.section5-first img {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
