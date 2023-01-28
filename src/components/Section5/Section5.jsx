@@ -1,6 +1,6 @@
 import React from "react";
 import "./Section5.css";
-import { card1, card2, card3 } from "../../assets";
+import { card1, card2, card3, review1 } from "../../assets";
 
 const Section5 = () => {
   return (
@@ -10,7 +10,7 @@ const Section5 = () => {
         <img src={card2} alt="card2" />
         <img src={card3} alt="card3" />
       </div>
-
+      {/* <hr className="hr"/> */}
       <div className="section5-second">
         <div className="section5-second-left">
           <div className="section5-second-left-heading">
@@ -23,7 +23,13 @@ const Section5 = () => {
           </div>
         </div>
         <div className="section5-second-right">
-          
+          <div className="section5-second-right-first">
+            <img src={review1} alt="" />
+          </div>
+          <div className="section5-second-right-second">
+            <p>SOFIA b.</p>
+            <p>MEMBRO DESDE 2022</p>
+          </div>
         </div>
       </div>
     </div>
