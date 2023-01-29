@@ -34,14 +34,15 @@
 .section5-second-left-heading {
   color: #f5f5ff;
   font-family: var(--font-family-big);
+  font-size: 28px;
 }
 
 .section5-second-left-text {
   color: #f5f5ff;
   font-family: var(--font-family-small);
   justify-content: center;
-  padding: 96px 0px;
-
+  padding: 80px 0px;
+  font-size: 24px;
 }
 
 .section5-second-right{

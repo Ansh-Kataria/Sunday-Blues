@@ -10,7 +10,11 @@ import review3 from "./review3.png";
 import card1 from "./card1.png";
 import card2 from "./card2.png";
 import card3 from "./card3.png";
-
+import facebook from "./facebook.png";
+import instagram from "./instagram.png";
+import youtube from "./youtube.png";
+import twitter from "./twitter.png";
+import footer from "./footer.png";
 export {
   logo,
   section1,
@@ -24,4 +28,9 @@ export {
   card1,
   card2,
   card3,
+  facebook,
+  instagram,
+  youtube,
+  twitter,
+  footer,
 };
